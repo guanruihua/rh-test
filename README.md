@@ -1,5 +1,6 @@
 # 描述
 
+- 更名为 **unit-test-js**
 - 添加测试用例来执行是否符合预期
 
 ## `test<Param, Tobe>(name:string, func:Func, ...cases: CaseUnit<Param, Tobe>)`
